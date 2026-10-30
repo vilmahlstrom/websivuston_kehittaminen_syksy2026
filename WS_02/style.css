@@ -1,3 +1,7 @@
+p {
+    color:#8C0056;
+}
+
 body {
     background-color: #f0f0f0;
     color: #8C0056;
@@ -14,7 +18,7 @@ h2 {
     color: #8C0056;
 }
 
-.harrastukset {
+.content-box {
     h2 {
         color: #FF00AA;
     }
