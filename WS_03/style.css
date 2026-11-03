@@ -117,7 +117,8 @@ input[type="submit"]:hover {
 }
 
 .pseudo-list li:nth-child(odd) {
-    background-color: lightpink;
+    background-color: #ff8ad8;
+    
 }
 
 .pseudo-list li:nth-child(even) {
@@ -135,7 +136,7 @@ input[type="submit"]:hover {
 
 .quote {
     position: relative;
-    padding-left: 20ps;
+    padding-left: 20px;
     font-style:italic;
 }
 
